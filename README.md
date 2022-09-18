@@ -15,8 +15,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 NLW eSports é um projeto voltado para a conexão entre gamers.
 
-Você pode visualizar o projeto em funcionamento através do link abaixo:
-http://lidianediniz.github.ionlwesports/
 
 
 
